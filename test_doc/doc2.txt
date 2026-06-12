@@ -1,0 +1,5 @@
+Python is one of the most popular programming languages.
+
+Python is widely used in machine learning, data science, web development, and automation.
+
+Python provides powerful libraries such as pandas, numpy, and scikit learn.

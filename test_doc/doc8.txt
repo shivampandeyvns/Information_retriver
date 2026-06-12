@@ -1,0 +1,5 @@
+A binary search tree stores data in a hierarchical structure.
+
+Searching in a binary search tree can be efficient when the tree is balanced.
+
+Tree based structures are widely used in computer science.

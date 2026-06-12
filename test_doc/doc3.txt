@@ -1,0 +1,5 @@
+Information retrieval focuses on finding relevant documents from large collections.
+
+Search engines use indexing, ranking, and retrieval techniques to provide useful results.
+
+Phrase queries and inverted indexes are important concepts in information retrieval.

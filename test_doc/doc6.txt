@@ -1,0 +1,5 @@
+Deep learning is a subset of machine learning.
+
+Neural networks are the foundation of deep learning models.
+
+Deep learning is commonly used for computer vision and speech recognition.

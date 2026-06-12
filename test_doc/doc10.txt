@@ -1,0 +1,5 @@
+Users often make spelling mistakes while searching.
+
+Tolerant retrieval techniques such as edit distance correction and k gram indexing help recover relevant results.
+
+Wildcard queries can also improve the search experience.

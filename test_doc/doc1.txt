@@ -1,0 +1,5 @@
+Machine learning is a branch of artificial intelligence.
+
+Machine learning algorithms learn patterns from data and improve automatically through experience.
+
+Supervised learning and unsupervised learning are popular machine learning techniques.

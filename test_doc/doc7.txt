@@ -1,0 +1,5 @@
+Data science combines statistics, machine learning, and data visualization.
+
+Data scientists analyze large datasets to generate business insights.
+
+Python and machine learning are important tools in data science.

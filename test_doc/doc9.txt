@@ -1,0 +1,5 @@
+A B Tree is a self balancing search tree designed for efficient storage and retrieval.
+
+B Trees are commonly used in databases and file systems.
+
+B Tree structures support fast search operations.

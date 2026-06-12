@@ -1,0 +1,5 @@
+Natural language processing enables computers to understand human language.
+
+Text preprocessing includes tokenization, stop word removal, stemming, and lemmatization.
+
+Natural language processing is widely used in chatbots and search systems.

@@ -1,0 +1,5 @@
+Cloud computing allows organizations to access computing resources over the internet.
+
+Microsoft Azure provides cloud services including virtual machines, storage, and databases.
+
+Azure supports machine learning and artificial intelligence workloads.
