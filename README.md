@@ -30,8 +30,6 @@ Information_Retrieval_System/
 ├── evaluation.py
 ├── requirements.txt
 ├── README.md
-├── IR_Report.docx
-│
 ├── documents/
     ├── doc1.txt
     ├── doc2.txt
@@ -40,9 +38,7 @@ Information_Retrieval_System/
     ├── doc5.txt
     ├── doc6.txt
     └── doc7.txt
-
 ```
-
 ---
 
 ## Installation
@@ -231,6 +227,6 @@ The application provides:
 
 ## Author
 
-Information Retrieval System Assignment
+Shivam Pandey, Saurav Sinha, Rahul Chauhan
 
 Developed using Python, Streamlit, Pandas, NLTK, and NumPy.
