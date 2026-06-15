@@ -63,16 +63,23 @@ project/
 
 ## Running the Application
 
+### Option 1: Use the Deployed Application
+
+Access the live application directly: https://bits-assignment-ir.streamlit.app/
+
+### Option 2: Run Locally
+
 Navigate to the project directory and execute:
 
-bash streamlit run app.py 
+```
+streamlit run app.py
+```
 
-After execution, Streamlit will launch the application in the default web browser.
+The application will launch in the default browser at:
 
-Typical URL:
-
-text http://localhost:8501 
-
+```
+http://localhost:8501
+```
 ---
 
 ## How to Use the Application
