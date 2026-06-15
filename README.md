@@ -69,7 +69,7 @@ Access the live application directly: https://bits-assignment-ir.streamlit.app/
 
 ### Option 2: Run Locally
 
-Navigate to the project directory and execute:
+Navigate to the project directory and execute the below code in a terminal:
 
 ```
 streamlit run app.py
