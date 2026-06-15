@@ -39,7 +39,25 @@ bash pip install streamlit pip install pandas pip install nltk pip install bintr
 
 ## Project Structure
 
-text project/ │ ├── app.py ├── preprocessing.py ├── phrase_query.py ├── tolerant_retrieval.py ├── btree_index.py ├── evaluation.py ├── requirements.txt └── sample_documents/ 
+```text
+project/
+│
+├── app.py
+├── preprocessing.py
+├── phrase_query.py
+├── tolerant_retrieval.py
+├── btree_index.py
+├── evaluation.py
+├── requirements.txt
+└── sample_documents/
+    ├── doc1.txt
+    ├── doc2.txt
+    ├── doc3.txt
+    ├── doc4.txt
+    ├── doc5.txt
+    ├── doc6.txt
+    └── doc7.txt
+```
 
 ---
 
